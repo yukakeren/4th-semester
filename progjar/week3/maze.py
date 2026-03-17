@@ -3,7 +3,7 @@ import requests
 from bs4 import BeautifulSoup, Comment
 from urllib.parse import urljoin
 
-NRP = "5025241xxx"
+NRP = "5025241031"
 BASE = "https://progjar.web.id"
 START = "/maze"
 
