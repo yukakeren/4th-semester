@@ -1,21 +1,3 @@
-1. Install dependencies:
-
-`pip install requests beautifulsoup4`
-
-2. Run maze.py
-
-3. Submit by
-
-curl -X POST http://progjar.web.id/submit \
-  -H "Content-Type: application/json" \
-  -d '{"nrp":"5025241234","flag":"FLAG{...}"}'
-
-Ternyata di web ini ada redirect, maka harus tambahin `-L` di cmd nya.
-`curl -v -H "NRP: 5025241234" http://progjar.web.id/maze` cmd berikut memberikan:
-`HTTP/1.1 308 Permanent Redirect`
-
-Di sini bisa dilihat bila `-H` itu untuk include header NRP. Dan `-i` atau `-v` dapat membuat session nya lebih talkative. Terakhir `-L` membuat bisa ngefollow redirect.
-
 # Pattern Maze Solver
 
 Script ini digunakan untuk menyelesaikan challenge **Pattern Maze** dengan cara melakukan traversal otomatis hingga menemukan flag.
