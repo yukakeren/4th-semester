@@ -1,0 +1,16 @@
+INPUT:
+8
+PLAN 10
+PLAN 50
+GO_OUT 
+MOOD 50
+PLAN 5
+GO_OUT
+GO_OUT
+GO_OUT
+
+OUTPUT:
+50
+60
+5
+No one is going out

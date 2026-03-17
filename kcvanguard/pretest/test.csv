@@ -1,0 +1,369 @@
+id,title,release_year,episode_count,num_seasons,duration_minutes,episode_format,avg_episodes_per_season,animation_type,genre,country,creator
+1,Noddy,,66.0,2.0,30.0,half-hour,33.0,Traditional,Comedy Fantasy,Canada [ a ],Rick Siggelkow
+2,Out of Jimmy's Head,,20.0,1.0,22.0,half-hour,20.0,Traditional,Comedy Teen sitcom,United States,Tim McKeon Adam Pava
+3,Snorks,,65.0,4.0,12.0,short,16.2,Traditional,Comedy Adventure Fantasy,United States Belgium,Nic Broca
+4,Right Now Kapow,,26.0,2.0,22.0,half-hour,13.0,Traditional,Sketch comedy,United States,Justin Becker Marly Halpern-Graser
+5,SuperMansion,,41.0,3.0,22.0,half-hour,13.7,Traditional,Animated sitcom Adult animation Superhero Science fantasy,United States,Matthew Senreich Zeb Wells
+6,He-Man and the Masters of the Universe,,39.0,2.0,21.0,half-hour,19.5,Traditional,Action / Adventure Sword and planet Superhero,United States,Michael Halperin
+7,Have a Laugh!,,60.0,,3.0,short,,Traditional,Comedy Anthology Cartoon series,United States,
+8,Mack & Moxy,,12.0,1.0,14.0,short,12.0,Traditional,Animation Puppetry,United States,Brahm Wenger
+9,Biz Kids,,71.0,6.0,26.0,half-hour,11.8,Traditional,,United States,
+10,SpongeBob SquarePants season 8,2011.0,26.0,,,,,Traditional,,,
+11,The Adventures of Gulliver,,17.0,,21.0,half-hour,,Traditional,Adventure Action,United States,
+12,Casper's Scare School,,52.0,2.0,22.0,half-hour,26.0,Traditional,,United States France India,
+13,Casper and the Angels,,13.0,,30.0,half-hour,,Traditional,Adventure Mystery Comedy horror Sci-fi,United States,
+14,Shirt Tales,,23.0,2.0,22.0,half-hour,11.5,Traditional,Fantasy Comedy Adventure,United States,Janet Elizabeth Manco
+15,Check It Out! with Dr. Steve Brule,,24.0,4.0,11.0,short,6.0,Traditional,Alternative comedy Surrealism Comedy horror,United States,John C. Reilly Tim & Eric
+16,Rugrats,,172.0,9.0,23.0,half-hour,19.1,Traditional,Comedy Adventure Slice of life,United States,Arlene Klasky Gábor Csupó Paul Germain
+17,Snooper and Blabber,,45.0,3.0,,,15.0,Traditional,Comedy Detective fiction,United States,William Hanna Joseph Barbera
+18,Marvin the Tap-Dancing Horse,,26.0,2.0,12.0,short,13.0,Traditional,Animated Fantasy,Canada China,
+19,Neighbors from Hell,,10.0,1.0,30.0,half-hour,10.0,Traditional,,United States,Pam Brady
+20,The New Yogi Bear Show,,45.0,,24.0,half-hour,,Traditional,Animated sitcom,United States,
+21,Camp Lazlo,,61.0,5.0,22.0,half-hour,12.2,Traditional,Comedy,United States,Joe Murray
+22,DC Nation,,,,,,,Traditional,,United States,
+23,WKAR-TV,,,,,,,Traditional,,,
+24,Disney Channel in Concert,,,,60.0,hour,,Traditional,,United States,
+25,Cyborg 009,1966.0,26.0,,65.0,movie/special,,anime,"Adventure , science fiction [ 1 ]",,
+26,Nick News,,30.0,4.0,22.0,half-hour,7.5,Traditional,News magazine,United States,Linda Ellerbee
+27,The Kwicky Koala Show,,16.0,,30.0,half-hour,,Traditional,Comedy Slapstick,United States Australia,Tex Avery
+28,Mobile Fighter G Gundam,1994.0,49.0,,,,,anime,Mecha Wuxia Military science fiction,,
+29,Trinity Blood,2001.0,24.0,,,,,anime,Action [ 1 ] Dark fantasy [ 2 ] Post-apocalyptic [ 3 ],,
+30,Secret Squirrel,,26.0,2.0,,,13.0,Traditional,Comedy Adventure,United States,William Hanna Joseph Barbera
+31,Mecha Builders,,26.0,1.0,22.0,half-hour,26.0,Traditional,Superhero,United States Canada,Joe Fallon
+32,The Peter Potamus Show,,27.0,,22.0,half-hour,,Traditional,Comedy Adventure,United States,William Hanna Joseph Barbera
+33,The Proud Family,,52.0,2.0,20.0,half-hour,26.0,Traditional,Animated sitcom Coming-of-age,United States,Bruce W. Smith
+34,Kekkaishi,2003.0,52.0,,,,,anime,Adventure [ 1 ] Romance [ 1 ] Supernatural [ 2 ],,
+35,Mad,,103.0,4.0,11.0,short,25.8,Traditional,Sketch comedy Surreal humour Parody Satire,United States,Kevin Shinick
+36,100 Deeds for Eddie McDowd,,40.0,3.0,22.0,half-hour,13.3,Traditional,,United States Canada [ 1 ],Steven H. Berman Mitchel Katlin Nat Bernstein
+37,The Room,,,,99.0,movie/special,,Traditional,,United States,
+38,The Really Loud House,,39.0,2.0,22.0,half-hour,19.5,Traditional,Sitcom,United States,Tim Hobert
+39,Numb Chucks,,52.0,2.0,22.0,half-hour,26.0,Traditional,Adventure - comedy Fantasy Slapstick comedy,Canada,Phil LaFrance Jamie LeClaire
+40,Richie Rich,,41.0,4.0,,,10.2,Traditional,Adventure,United States,
+41,Just for Kicks,,13.0,1.0,22.0,half-hour,13.0,Traditional,,United States,Alana Sanko
+42,Justice League,,52.0,2.0,20.0,half-hour,26.0,Traditional,Action-adventure Superhero Science fiction Crossover Drama,United States,Bruce Timm
+43,Soul Quest Overdrive,,7.0,1.0,4.0,short,7.0,Traditional,,United States,Dave Willis Matt Maiellaro
+44,Saturdays,,15.0,1.0,22.0,half-hour,15.0,Traditional,Coming-of-age Comedy,United States,Norman Vance Jr.
+45,Pokémon,,1356.0,,22.0,half-hour,,Traditional,Adventure [ 1 ] Fantasy comedy [ 1 ],Japan,Satoshi Tajiri
+46,Blue Exorcist,2009.0,73.0,,,,,anime,Adventure [ 1 ] Dark fantasy [ 2 ],,
+47,The Wind in the Willows,,,,,,,Traditional,Children's novel,,
+48,Scientastic!,,,,,,,Traditional,,,
+49,Tyler Perry's Young Dylan,,85.0,5.0,22.0,half-hour,17.0,Traditional,Comedy,United States,Tyler Perry
+50,Girls v. Boys,,,4.0,30.0,half-hour,,Traditional,Game show Competition,United States,
+51,Tooned In,,36.0,2.0,20.0,half-hour,18.0,Traditional,Game show,United States,
+52,Grim & Evil,,27.0,2.0,22.0,half-hour,13.5,Traditional,Animated comedy [ 1 ],United States,Maxwell Atoms
+53,Gamer's Guide to Pretty Much Everything,,37.0,2.0,21.0,half-hour,18.5,Traditional,Comedy,United States,Devin Bunje & Nick Stanton
+54,Mobile Suit Gundam,1981.0,43.0,,139.0,movie/special,,anime,Real robot Military science fiction Space opera,,
+55,Looney Tunes,,,,,,,Traditional,,,Leon Schlesinger Hugh Harman Rudolf Ising
+56,The Legend of Tarzan,,39.0,2.0,22.0,half-hour,19.5,Traditional,Action Adventure Comedy,United States,Bill Motz Bob Roth
+57,Here's Boomer,,24.0,2.0,22.0,half-hour,12.0,Traditional,Children /Family Adventure / Drama,United States,Don Balluck A. C. Lyles Leon Tokatyan Diana Bell Tokatyan
+58,Miffy and Friends,,39.0,3.0,24.0,half-hour,13.0,Stop Motion,Animated television series,Netherlands,Dick Bruna
+59,ToonHeads,,102.0,8.0,15.0,short,12.8,Traditional,,United States,
+60,Night of the Living Doo,,,,20.0,half-hour,,Traditional,,United States,
+61,Grim & Evil,,27.0,2.0,22.0,half-hour,13.5,Traditional,Animated comedy [ 1 ],United States,Maxwell Atoms
+62,A Charlie Brown Christmas,,,,25.0,half-hour,,Traditional,Christmas Family Comedy,United States,
+63,Taz-Mania,,65.0,4.0,30.0,half-hour,16.2,Traditional,Animated sitcom,United States,Art Vitello
+64,Iron Man,,26.0,2.0,26.0,half-hour,13.0,Traditional,Superhero,United States,
+65,Dai-Guard,1999.0,26.0,,,,,anime,,,
+66,In a Heartbeat,,20.0,1.0,,,20.0,Traditional,Drama,Canada United States,Jon Felson Steve Reiss Patricia Green
+67,Natalie's Backseat Traveling Web Show,,10.0,,3.0,short,,Traditional,,United States,
+68,WordWorld,,45.0,3.0,28.0,half-hour,15.0,Traditional,Educational Children's television series [ 1 ],United States,Don Moody Jacqueline Moody Peter Schneider Gary Friedman
+69,Chibiverse,,11.0,3.0,21.0,half-hour,3.7,Traditional,Comedy Variety Anthology Crossover,United States,Gino Guzzardo
+70,Crash & Bernstein,,39.0,2.0,,,19.5,Traditional,Sitcom Puppetry,United States,Eric Friedman
+71,The Super Hero Squad Show,,52.0,2.0,22.0,half-hour,26.0,Traditional,Action Adventure Comedy Science fantasy Slapstick Superhero,United States,Matt Wayne
+72,The Replacements,,52.0,2.0,22.0,half-hour,26.0,Traditional,Animated comedy Action Adventure Slapstick Science fiction,United States,Dan Santat
+73,The Super Hero Squad Show,,52.0,2.0,22.0,half-hour,26.0,Traditional,Action Adventure Comedy Science fantasy Slapstick Superhero,United States,Matt Wayne
+74,Lamput,,147.0,4.0,15.0,short,36.8,Traditional,,India,Vaibhav Kumaresh
+75,Legend of the Three Caballeros,,13.0,1.0,22.0,half-hour,13.0,Traditional,Action-adventure Comedy,United States,Disney Digital Network
+76,Shaun the Sheep,,190.0,7.0,7.0,short,27.1,Traditional,Comedy Slapstick Slice of life,United Kingdom Germany,Nick Park
+77,Galaxy Goof-Ups,,13.0,,30.0,half-hour,,Traditional,Adventure Comedy,United States,William Hanna Joseph Barbera
+78,The Third Eye,,,,1.0,short,,Traditional,,United States,
+79,Wunderkind Little Amadeus,,26.0,1.0,24.0,half-hour,26.0,Traditional,Historical,Germany,
+80,Teletubbies,,485.0,17.0,25.0,half-hour,28.5,Traditional,,United Kingdom,Anne Wood Andrew Davenport
+81,Wallykazam!,,52.0,2.0,24.0,half-hour,26.0,Traditional,Fantasy Musical Educational Comedy,United States,Adam Peltzman
+82,DuckTales,,69.0,3.0,22.0,half-hour,23.0,Traditional,Adventure Comedy [ 1 ],United States,Matt Youngberg Francisco Angones [ 2 ]
+83,Nickel Flicks,,110.0,1.0,1.0,short,110.0,Traditional,,United States,
+84,The Huggabug Club,,47.0,3.0,30.0,half-hour,15.7,Traditional,Children's television series,United States,Audrey Landers Judy Landers Ruth Landers
+85,Wizards Beyond Waverly Place,,31.0,2.0,22.0,half-hour,15.5,Traditional,Comedy [ 1 ],United States,Todd J. Greenwald [ 2 ]
+86,Trollkins,,13.0,,21.0,half-hour,,Traditional,Fantasy Comedy,United States,
+87,Going Wild with Jeff Corwin,,39.0,3.0,30.0,half-hour,13.0,Traditional,Wildlife documentary,United States,
+88,Beyblade Burst QuadDrive,2021.0,52.0,,,,,Traditional,,,
+89,My Friends Tigger & Pooh,,63.0,3.0,22.0,half-hour,21.0,Traditional,,United States,
+90,Esme & Roy,,52.0,2.0,23.0,half-hour,26.0,Traditional,Preschool Musical Comedy Fantasy,United States Canada,Dustin Ferrer Amy Steinberg
+91,Ronin Warriors,1989.0,39.0,,25.0,half-hour,,anime,,,
+92,"Mira, Royal Detective",,54.0,2.0,22.0,half-hour,27.0,Traditional,Mystery Comedy Musical,United States,Becca Topol
+93,Ocean Girl,,78.0,4.0,24.0,half-hour,19.5,Traditional,Science fiction Drama Adventure,Australia,Jonathan M. Shiff
+94,Curious George,,198.0,15.0,22.0,half-hour,13.2,Traditional,Adventure Comedy Edutainment,United States,Joe Fallon
+95,Firehouse Tales,,26.0,1.0,11.0,short,26.0,Traditional,Adventure Comedy Musical Preschool,United States,Sidney J. Bailey
+96,Wizards of Waverly Place,,106.0,4.0,22.0,half-hour,26.5,Traditional,Teen sitcom Fantasy,United States,Todd J. Greenwald
+97,Katie and Orbie,,78.0,6.0,26.0,half-hour,13.0,Traditional,Children's television series,Canada,Ben Wicks and Susan Wicks
+98,Jessie,,98.0,4.0,22.0,half-hour,24.5,Traditional,Comedy,United States,Pamela Eells O'Connell
+99,Sydney to the Max,,63.0,3.0,22.0,half-hour,21.0,Traditional,Comedy,United States,Mark Reisman
+100,Bloopy's Buddies,,,,,,,Traditional,,,
+101,Pupstruction,,50.0,2.0,22.0,half-hour,25.0,Traditional,,United States,Travis Braun
+102,Mongo Wrestling Alliance,,10.0,,11.0,short,,Traditional,Comedy,United States Romania,Tommy Blacha
+103,You're Whole,,8.0,2.0,11.0,short,4.0,Traditional,Comedy Satire,United States,Michael Ian Black
+104,Zokie of Planet Ruby,,26.0,1.0,22.0,half-hour,26.0,Traditional,Musical comedy,Canada,Brian Morante [ 1 ]
+105,Lizzie McGuire,,65.0,2.0,22.0,half-hour,32.5,Traditional,Comedy,United States,Terri Minsky
+106,The Not-Too-Late Show with Elmo,,29.0,2.0,15.0,short,14.5,Traditional,Children's television series Educational Late-night talk show,United States,
+107,Postcards from Buster,,55.0,3.0,22.0,half-hour,18.3,Traditional,,United States,Marc Brown  Natatcha Estébanez
+108,Hamtaro,1999.0,296.0,,50.0,hour,,anime,,,
+109,Animaniacs,,99.0,5.0,20.0,half-hour,19.8,Traditional,Sketch comedy Surreal comedy Musical Slapstick Satire,United States,Tom Ruegger
+110,How to Rock,,25.0,1.0,24.0,half-hour,25.0,Traditional,Teen sitcom,United States,Jim O'Doherty
+111,Rocko's Modern Life,,52.0,4.0,22.0,half-hour,13.0,Traditional,Animated sitcom Black comedy Satire Surreal humor Slapstick,United States,Joe Murray
+112,Galtar and the Golden Lance,,21.0,,30.0,half-hour,,Traditional,Animation Sword and planet Adventure Action Drama,United States,
+113,Welcome Freshmen,,52.0,4.0,30.0,half-hour,13.0,Traditional,Comedy,United States,Robert Mittenthal
+114,Yu-Gi-Oh! Sevens,2020.0,92.0,,,,,anime,,,
+115,Muppets Tonight,,22.0,2.0,22.0,half-hour,11.0,Traditional,Comedy,United States,Jim Henson Productions
+116,Parasyte,1989.0,24.0,,,,,anime,Body horror [ 1 ] [ 2 ] Horror thriller [ 3 ] Science fiction [ 1 ] [ 4 ],,
+117,Long Live the Royals,,4.0,,9.0,short,,Traditional,,United States,Sean Szeles
+118,The Haunted Hathaways,,47.0,2.0,22.0,half-hour,23.5,Traditional,Comedy horror Sitcom Supernatural,United States,Robert Peacock
+119,Teen Angel,,12.0,1.0,45.0,hour,12.0,Traditional,Fantasy serial drama,United States,The Walt Disney Company
+120,Sword Art Online II,2014.0,24.0,,,,,anime,,,
+121,Steven Universe,,160.0,5.0,11.0,short,32.0,Traditional,Adventure [ 1 ] Science fantasy [ 2 ] Comedy drama [ 3 ] Coming-of-age [ 4 ] Musical [ 4 ],United States,Rebecca Sugar
+122,So Random!,,26.0,1.0,22.0,half-hour,26.0,Traditional,Variety show Sketch comedy,United States,Steve Marmel
+123,Bleach,2004.0,366.0,,,,,anime,Adventure [ 1 ] Martial arts [ 1 ] Supernatural [ 1 ],,
+124,Wally Gator,,52.0,4.0,24.0,half-hour,13.0,Traditional,Comedy,United States,
+125,Billy Dilley's Super-Duper Subterranean Summer,,13.0,1.0,22.0,half-hour,13.0,Traditional,Comedy Adventure Science fantasy Slapstick,United States,Aaron Springer
+126,Adventure Time,,283.0,10.0,11.0,short,28.3,Traditional,Science fantasy [ 1 ] Adventure Surreal comedy [ 2 ] Coming-of-age [ 3 ],United States,Pendleton Ward
+127,Lazarus,,13.0,1.0,24.0,half-hour,13.0,anime,Action [ 1 ] Science fiction [ 2 ],Japan United States,Shinichirō Watanabe
+128,Howie Mandel,,,,,,,Traditional,"Observational comedy , improvisational comedy",,
+129,The Adventures of Rin-Tin-Tin,,164.0,5.0,25.0,half-hour,32.8,Traditional,Adventure Family Western,United States,
+130,"Be Cool, Scooby-Doo!",,52.0,2.0,22.0,half-hour,26.0,Traditional,Mystery Comedy Slapstick,United States,Jon Colton Barry
+131,Two More Eggs,,90.0,3.0,1.0,short,30.0,Traditional,Sketch comedy Surreal humour,United States,The Brothers Chaps
+132,Fat Guy Stuck in Internet,,10.0,1.0,11.0,short,10.0,Traditional,Comic science fiction Comedy / Adventure,United States,John Gemberling Curtis Gwinn
+133,The Amazing Chan and the Chan Clan,,16.0,1.0,30.0,half-hour,16.0,Traditional,Mystery,United States,
+134,Baby Looney Tunes,,53.0,4.0,22.0,half-hour,13.2,Traditional,Comedy Preschool,United States,Sander Schwartz
+135,Catscratch,,20.0,1.0,23.0,half-hour,20.0,Traditional,Animated sitcom Slapstick Adventure,United States,Doug TenNapel
+136,Futurama,,170.0,10.0,22.0,half-hour,17.0,Traditional,Animated sitcom Science fiction comedy Satire Black comedy,United States,Matt Groening
+137,Spidey and His Amazing Friends,,98.0,4.0,22.0,half-hour,24.5,Traditional,Preschool Superhero,United States Canada,
+138,Mr. Neighbor's House,,2.0,,21.0,half-hour,,Traditional,Black comedy,United States,Jesse Falcon Brian Huskey Jason Mantzoukas
+139,The Adventures of Don Coyote and Sancho Panda,,26.0,2.0,30.0,half-hour,13.0,Traditional,Adventure Comedy,United States Italy,
+140,Tenchi Muyo!,1994.0,,,,,,anime,"Comedy , harem , space opera [ 1 ] [ 2 ] [ 3 ] [ 4 ]",,
+141,The Real Adventures of Jonny Quest,,52.0,2.0,22.0,half-hour,26.0,Traditional,Adventure Drama Sci-fi,United States,Peter Lawrence Takashi Masunaga
+142,Gravity Falls,,40.0,2.0,20.0,half-hour,20.0,Traditional,Adventure [ 1 ] [ 2 ] Mystery [ 1 ] [ 3 ] Surreal comedy [ 4 ],United States,Alex Hirsch
+143,Sunny Day,,60.0,2.0,22.0,half-hour,30.0,Traditional,Animated series,United States United Kingdom Canada,Paula Rosenthal Sarah Blondine Mullervy
+144,Lamb Chop's Play-Along,,85.0,4.0,30.0,half-hour,21.2,Traditional,Children's television series,Canada United States,
+145,Sailor Moon,1992.0,200.0,5.0,,,40.0,anime,Magical girl,,
+146,Clarence,,130.0,4.0,11.0,short,32.5,Traditional,Comedy [ 1 ] Adventure Slice of life,United States,Skyler Page
+147,The Completely Mental Misadventures of Ed Grimley,,13.0,1.0,23.0,half-hour,13.0,Traditional,Animation / Live-action Comedy Satire,United States,"Colossal Pictures, Inc."
+148,America Goes Bananaz,,50.0,1.0,45.0,hour,50.0,Traditional,Variety show,United States,Burt Dubrow
+149,Just Kidding,,42.0,2.0,22.0,half-hour,21.0,Traditional,Comedy,Canada,Pierre Girard Jacques Chevalier
+150,The Substitute,,24.0,2.0,23.0,half-hour,12.0,Traditional,Reality,United States,
+151,Mind Game,,,,103.0,movie/special,,Traditional,,Japan,
+152,Slugterra,,63.0,6.0,22.0,half-hour,10.5,Traditional,Action Subterranean fiction Science fantasy Comedy Science fiction Western,Canada,Asaph Fipke
+153,Pee-wee's Playhouse,,45.0,5.0,23.0,half-hour,9.0,Traditional,Children's television series Surreal comedy Edutainment Problem solving,United States,Paul Reubens
+154,Dorothy and the Wizard of Oz,,59.0,3.0,22.0,half-hour,19.7,Traditional,Fantasy [ 1 ] Educational [ 1 ] Comedy [ 1 ] Slapstick [ 1 ],United States,
+155,The Brothers García,,52.0,4.0,22.0,half-hour,13.0,Traditional,Teen sitcom,United States,Jeff Valdez Mike Cevallos Gibby Cevallos
+156,D-TV,,240.0,,,,,Traditional,,,
+157,Bagboy,,,,22.0,half-hour,,Traditional,Comedy,United States,Tim Heidecker Eric Wareheim John C. Reilly
+158,The New Batman/Superman Adventures,,,,44.0,hour,,Traditional,,United States,
+159,Fillmore!,,26.0,2.0,22.0,half-hour,13.0,Traditional,,United States,Scott M. Gimple
+160,Pinky and the Brain,,65.0,4.0,22.0,half-hour,16.2,Traditional,Animated sitcom Science fiction Comedy,United States,Tom Ruegger
+161,Daniel Tiger's Neighborhood,,152.0,7.0,22.0,half-hour,21.7,Traditional,Children's television series Musical Comedy Preschool Educational,United States Canada,Angela C. Santomero
+162,Dinner with Friends with Brett Gelman and Friends,,,,22.0,half-hour,,Traditional,,United States,Brett Gelman Jason Woliner
+163,Think Fast,,106.0,2.0,,,53.0,Traditional,Children's game show Comedy,United States,Robert Mittenthal Michael Klinghoffer
+164,Night of the Living Doo,,,,20.0,half-hour,,Traditional,,United States,
+165,Primos,,28.0,1.0,22.0,half-hour,28.0,Traditional,Comedy [ 1 ] Coming of age [ 2 ],United States,Natasha Kline [ 1 ]
+166,Made in Abyss,2019.0,13.0,,119.0,movie/special,,anime,Adventure [ 1 ] [ 2 ] Dark fantasy [ 1 ] Science fiction [ 2 ],,
+167,Romeo!,,53.0,3.0,30.0,half-hour,17.7,Traditional,Teen sitcom,Canada [ 1 ] United States,Fracaswell Hyman Thomas W. Lynch Percy Miller
+168,George and Junior,,,,,,,Traditional,,,Tex Avery
+169,Andi Mack,,57.0,3.0,18.0,half-hour,19.0,Traditional,Family comedy-drama,United States,Terri Minsky
+170,The Last Podcast on the Left,2011.0,1000.0,,30.0,half-hour,,Traditional,Comedy true crime dark comedy paranormal horror,United States,Marcus Parks Ben Kissel
+171,Monster Beach,,48.0,,70.0,movie/special,,Traditional,Comedy horror,Australia,Bruce Kane  Maurice Argiro Patrick Crawley
+172,Johnny Test,,117.0,6.0,20.0,half-hour,19.5,Traditional,Science fantasy Action-adventure Comedy Science fiction comedy Animated sitcom,United States  Canada,Scott Fellows
+173,House of Bloo's,,,,63.0,movie/special,,Traditional,,,
+174,Class of 3000,,28.0,2.0,22.0,half-hour,14.0,Traditional,Musical show Comedy,United States,André 3000 Thomas W. Lynch
+175,Sheep in the Big City,,26.0,2.0,22.0,half-hour,13.0,Traditional,Comedy,United States,Mo Willems
+176,W.I.T.C.H.,,52.0,2.0,22.0,half-hour,26.0,Traditional,Action comedy-drama [ 1 ] Fantasy [ 1 ] [ 2 ] Magical girl [ 3 ] [ 4 ] Superhero,France United States,Claire Paoletti  Andrew Nicholls and Darrell Vickers  Greg Weisman  [ 5 ]
+177,Voltron,,124.0,3.0,25.0,half-hour,41.3,Traditional,"Sci-fi , action / adventure , mecha",United States Japan,Ted Koplar Peter Keefe Saburō Yatsude
+178,Mister T,,30.0,3.0,30.0,half-hour,10.0,Traditional,Action Adventure,United States,Steve Gerber Martin Pasko
+179,Max Steel,,35.0,3.0,21.0,half-hour,11.7,Traditional,Action Science fiction Superhero,United States Canada,Greg Weisman Jeff Kline
+180,Ultimate Spider-Man,,104.0,4.0,22.0,half-hour,26.0,Traditional,Superhero Action-adventure Comedy-drama,United States,Marvel Animation
+181,Darkwing Duck,,91.0,3.0,22.0,half-hour,30.3,Traditional,Superhero fiction Crime comedy Mystery Slapstick comedy,United States,Tad Stones
+182,Wacky Races,,17.0,1.0,21.0,half-hour,17.0,Traditional,Comedy Sports,United States,
+183,Sym-Bionic Titan,,20.0,1.0,22.0,half-hour,20.0,Traditional,Action - adventure Science fiction Mecha,United States,Genndy Tartakovsky Bryan Andrews Paul Rudish
+184,The Torkelsons,,33.0,2.0,22.0,half-hour,16.5,Traditional,Sitcom,United States,Lynn Montgomery
+185,"Nicky, Ricky, Dicky & Dawn",,82.0,4.0,22.0,half-hour,20.5,Traditional,Comedy,United States,Matt Fleckenstein
+186,Pair of Kings,,67.0,3.0,22.0,half-hour,22.3,Traditional,Fantasy Adventure Sitcom,United States,Dan Cross David Hoge
+187,Shake It Up,,75.0,3.0,23.0,half-hour,25.0,Traditional,Teen sitcom,United States,Chris Thompson
+188,Ariel,,37.0,2.0,22.0,half-hour,18.5,Traditional,,United States,
+189,Primal,,20.0,2.0,20.0,half-hour,10.0,Traditional,Action Adult animation Horror Adventure Fantasy Anthology [ a ],United States,Genndy Tartakovsky
+190,Tigtone,,21.0,2.0,11.0,short,10.5,Traditional,,United States,Andrew Koehler Benjamin Martian
+191,The Not-Too-Late Show with Elmo,,29.0,2.0,15.0,short,14.5,Traditional,Children's television series Educational Late-night talk show,United States,
+192,The Ren & Stimpy Show,,52.0,5.0,22.0,half-hour,10.4,Traditional,Animated sitcom Black comedy Surreal humor Satire Slapstick Gross-out,United States,John Kricfalusi
+193,Space Ghost Coast to Coast,,109.0,10.0,11.0,short,10.9,Traditional,Comedy [ 1 ] Surreal humor Talk show Satire Parody,United States,Mike Lazzo
+194,The Marvelous Misadventures of Flapjack,,46.0,3.0,22.0,half-hour,15.3,Traditional,Adventure Fantasy Surreal comedy Dark humor,United States,Thurop Van Orman
+195,The High Fructose Adventures of Annoying Orange,,60.0,2.0,11.0,short,30.0,Traditional,Comedy Slapstick Adventure,United States,Tom Sheppard Dane Boedigheimer
+196,Shaman King,1998.0,64.0,,,,,anime,Adventure [ 1 ] Supernatural [ 2 ],,
+197,The Incredible Hulk,,21.0,2.0,22.0,half-hour,10.5,Traditional,Superhero Action,United States,
+198,The Neighbors,,44.0,2.0,22.0,half-hour,22.0,Traditional,Science fiction Sitcom Metafiction,United States,Dan Fogelman
+199,Davy Jones's locker,,,,,,,Traditional,Nautical folklore,,
+200,Courage the Cowardly Dog,,52.0,4.0,22.0,half-hour,13.0,Traditional,Black comedy Comedy horror Slapstick Science fantasy Surreal comedy,United States,John R. Dilworth
+201,Secret Mountain Fort Awesome,,26.0,2.0,11.0,short,13.0,Traditional,Surreal humour Toilet humour,United States,Peter Browngardt
+202,President Curtis,,,,,,,Traditional,Adult animation Animated sitcom Adventure Black comedy Satire Science fiction,United States,Dan Harmon James Siciliano
+203,Foster's Home for Imaginary Friends,,79.0,6.0,21.0,half-hour,13.2,Traditional,Fantasy Comedy Adventure Animated sitcom,United States,Craig McCracken
+204,Donald Duck Presents,,,2.0,28.0,half-hour,,Traditional,Anthology,United States,
+205,Action League Now!,,51.0,4.0,4.0,short,12.8,Stop Motion,Comedy Action Slapstick Superhero,United States,Robert Mittenthal Will McRobb Albie Hecht
+206,Holly Hobbie,,50.0,5.0,,,10.0,Traditional,Comedy-drama,Canada United States,Sarah Glinski
+207,The Wonderful World of Mickey Mouse,,25.0,1.0,7.0,short,25.0,Traditional,Comedy Cartoon series Slapstick,United States,Paul Rudish
+208,YuYu Hakusho,1990.0,,,,,,anime,Adventure [ 1 ] Martial arts [ 2 ] Supernatural [ 1 ],,
+209,Dinosaur Train,,100.0,5.0,28.0,half-hour,20.0,Traditional,Educational Preschool Comedy,United States Canada Singapore,Craig Bartlett
+210,Out of Control,,26.0,1.0,22.0,half-hour,26.0,Traditional,,United States,Bob Hughes
+211,Assy McGee,,20.0,2.0,11.0,short,10.0,Traditional,,United States,Matt Harrigan Carl W. Adams
+212,Liberty's Kids,,40.0,1.0,22.0,half-hour,40.0,Traditional,Historical fiction,United States,Kevin O'Donnell Michael Maliani
+213,Devlin,,16.0,,30.0,half-hour,,Traditional,Action Drama,United States,
+214,Pup Academy,,19.0,1.0,46.0,hour,19.0,Traditional,,Canada United States,Anna McRoberts
+215,Elena of Avalor,,77.0,3.0,24.0,half-hour,25.7,Traditional,Adventure Fantasy Comedy,United States,Craig Gerber
+216,"Ni Hao, Kai-Lan",,42.0,3.0,24.0,half-hour,14.0,Traditional,Fantasy Comedy,United States,Karen Chau
+217,Goosebumps,,74.0,4.0,24.0,half-hour,18.5,Traditional,Horror Fantasy Adventure Thriller Science fiction Comedy,Canada United States,R. L. Stine
+218,Disney XD,,,,,,,Traditional,,United States,
+219,ThunderCats,,26.0,1.0,21.0,half-hour,26.0,Traditional,Action / Adventure Sword and planet Superhero,United States Japan,Ethan Spaulding Michael Jelenic
+220,"Lomax, the Hound of Music",,13.0,,22.0,half-hour,,Traditional,,United States,Christopher Cerf Norman Stiles Louise Gikow
+221,Space Ghost,,20.0,1.0,30.0,half-hour,20.0,Traditional,Science-fiction Superhero,United States,Alex Toth
+222,s-CRY-ed,2011.0,26.0,,98.0,movie/special,,anime,"Action , [ 1 ] science fiction [ 2 ]",,
+223,The Dooley and Pals Show,,39.0,,,,,Traditional,Children's television series Educational,United States,Mark Riddle
+224,Heathcliff,,26.0,2.0,30.0,half-hour,13.0,Traditional,Animated series,United States,George Gately  Brad Anderson  Joe Ruby Ken Spears
+225,The Herculoids,,18.0,,22.0,half-hour,,Traditional,Science fiction,United States,Alex Toth
+226,Milo Murphy's Law,,40.0,2.0,22.0,half-hour,20.0,Traditional,Comedy,United States,"Dan Povenmire Jeff ""Swampy"" Marsh"
+227,House of Anubis,,190.0,3.0,23.0,half-hour,63.3,Traditional,Mystery,Belgium United Kingdom United States,Hans Bourlon Gert Verhulst
+228,Boy Meets World,,158.0,7.0,21.0,half-hour,22.6,Traditional,Sitcom,United States,Michael Jacobs April Kelly
+229,The Scooby-Doo Project,,,,17.0,half-hour,,Traditional,,United States,
+230,Garfield and Friends,,121.0,7.0,23.0,half-hour,17.3,Traditional,Comedy Animated sitcom Slapstick,United States,Jim Davis
+231,Dragon's Lair,,13.0,1.0,30.0,half-hour,13.0,Traditional,Fantasy Animation Action Adventure Sword and sorcery,United States,Ruby-Spears Productions
+232,Hailey's On It!,,30.0,1.0,22.0,half-hour,30.0,Traditional,Action Adventure [ 1 ] Comedy [ 1 ] Science fiction [ 1 ],United States,Devin Bunje [ 1 ] Nick Stanton [ 1 ]
+233,Milo Murphy's Law,,40.0,2.0,22.0,half-hour,20.0,Traditional,Comedy,United States,"Dan Povenmire Jeff ""Swampy"" Marsh"
+234,The Other Kingdom,,20.0,1.0,,,20.0,Traditional,Sitcom Fantasy,United States Canada,Thomas W. Lynch
+235,Big City Greens,,110.0,4.0,22.0,half-hour,27.5,Traditional,Animated sitcom [ 1 ] [ 2 ],United States,The Houghton Brothers
+236,The Cramp Twins,,52.0,2.0,20.0,half-hour,26.0,Traditional,Animated sitcom,Germany United Kingdom United States,Brian Wood
+237,Mech-X4,,35.0,2.0,21.0,half-hour,17.5,Traditional,Sci-fi Adventure Comedy,United States,Steve Marmel
+238,The Plastic Man Comedy/Adventure Show,,112.0,5.0,120.0,movie/special,22.4,Traditional,,United States,Joe Ruby Ken Spears
+239,Bug Juice,,60.0,3.0,22.0,half-hour,20.0,Traditional,,United States,Douglas Ross J. Rupert Thompson
+240,The Woody Woodpecker Show,,113.0,5.0,30.0,half-hour,22.6,Traditional,"Animation , comedy",United States,Walter Lantz
+241,Space Ghost Coast to Coast,,109.0,10.0,11.0,short,10.9,Traditional,Comedy [ 1 ] Surreal humor Talk show Satire Parody,United States,Mike Lazzo
+242,Shimmer and Shine,,86.0,4.0,21.0,half-hour,21.5,Traditional,Fantasy Musical Magical girl,United States Canada,Farnaz Esnaashari-Charmatz
+243,My Life as a Teenage Robot,,40.0,3.0,23.0,half-hour,13.3,Traditional,Comedy Action - adventure Comic science fiction Superhero Animated sitcom Science fiction,United States,Rob Renzetti
+244,Descendants,,,,,,,Traditional,,,Josann McGibbon Sara Parriott
+245,These Are the Days,,16.0,1.0,30.0,half-hour,16.0,Traditional,,United States,
+246,MythQuest,,13.0,1.0,45.0,hour,13.0,Traditional,,Canada,
+247,The Coppertop Flop Show,,22.0,1.0,,,22.0,Traditional,Comedy shorts,United States,Derek Baynham Kelly May Calum Worthy
+248,Theodore Tugboat,,130.0,5.0,15.0,short,26.0,Traditional,Children's television,Canada,Andrew Cochran
+249,Buzz Lightyear of Star Command,,62.0,1.0,22.0,half-hour,62.0,Traditional,Science fiction comedy,United States,Mark McCorkle Bob Schooley
+250,BeyWheelz,2012.0,13.0,,,,,anime,,,
+251,Pink Panther and Pals,,26.0,1.0,22.0,half-hour,26.0,Traditional,Comedy Slapstick,United States,David J. Corbett Isam S. Ayoubi
+252,Between the Lions,,130.0,10.0,26.0,half-hour,13.0,Traditional,"Animated, educational children's TV",United States,Lou Berger Christopher Cerf Michael K. Frith Kathryn Mullen Norman Stiles
+253,On Cinema,,47.0,16.0,,,2.9,Traditional,Film Satire Metafiction Black comedy Anti-comedy Cringe comedy,United States,Tim Heidecker Gregg Turkington
+254,Let's Go Luna!,,65.0,2.0,24.0,half-hour,32.5,Traditional,Children's television series Comedy Educational,Canada United States,Joe Murray
+255,The Funky Phantom,,17.0,1.0,22.0,half-hour,17.0,Traditional,Comedy Mystery Adventure,United States Australia [ 1 ],William Hanna Joseph Barbera
+256,The Secret World of Alex Mack,,78.0,4.0,23.0,half-hour,19.5,Traditional,Science fiction Superhero Fantasy Teen drama Comedy,United States,Thomas W. Lynch Ken Lipman
+257,Cloudy with a Chance of Meatballs,,104.0,2.0,11.0,short,52.0,Traditional,Animated sitcom Science fiction comedy,Canada United States,Mark Evestaff Alex Galatis
+258,Oobi,,48.0,3.0,1.0,short,16.0,Traditional,Puppetry Comedy,United States,Josh Selig
+259,Lloyd in Space,,39.0,4.0,22.0,half-hour,9.8,Traditional,,United States,Joe Ansolabehere Paul Germain
+260,PrankStars,,6.0,1.0,,,6.0,Traditional,Reality,United States,The Walt Disney Company
+261,Injustice,,,,78.0,movie/special,,Traditional,,United States,
+262,All Grown Up!,,55.0,5.0,23.0,half-hour,11.0,Traditional,Comedy drama Teen drama Teen sitcom Animated sitcom,United States,Kate Boutilier Eryk Casemiro Monica Piper
+263,The Carbonaro Effect,,90.0,5.0,22.0,half-hour,18.0,Traditional,Hidden camera Magic Comedy,United States,Michael Carbonaro
+264,Pac-Man and the Ghostly Adventures,,52.0,3.0,24.0,half-hour,17.3,Traditional,Science fantasy Comedy Action Adventure,United States Japan Canada,Tom Ruegger Paul Rugg Avi Arad
+265,The Secret Saturdays,,36.0,2.0,22.0,half-hour,18.0,Traditional,Action Adventure [ 1 ],United States,Jay Stephens
+266,Super Duper Bunny League,,25.0,2.0,22.0,half-hour,12.5,Traditional,Adventure Action comedy Superhero,Finland United States,Jonny Belt Robert Scull
+267,The Toy Castle,,65.0,3.0,22.0,half-hour,21.7,Traditional,Supernatural Fantasy Slice of life,Canada,Katherine Jeans and David Langer
+268,Make the Grade,,160.0,3.0,23.0,half-hour,53.3,Traditional,Education,United States,Michael Klinghoffer
+269,Mighty Man and Yukk,,,,,,,Traditional,,,
+270,Minoriteam,,19.0,,11.0,short,,Traditional,Superhero Parody Dark comedy,United States,Adam de la Peña Peter Girardi Todd James
+271,Power Players,,78.0,1.0,11.0,short,78.0,3D/CGI,Action Adventure Science fiction Superhero Comedy,United States France,Jeremy Zag
+272,Yogi's Gang,,15.0,,30.0,half-hour,,Traditional,Adventure Comedy,United States,
+273,Young Justice,,98.0,4.0,23.0,half-hour,24.5,Traditional,Action [ 1 ] Adventure [ 1 ] Science fiction [ 1 ] Space opera [ 2 ],United States,Brandon Vietti Greg Weisman
+274,Arthur,,253.0,25.0,26.0,half-hour,10.1,Traditional,Problem solving Edutainment Slice of life,United States Canada,Kathy Waugh Marc Brown
+275,The Magic School Bus,,52.0,4.0,26.0,half-hour,13.0,Traditional,Educational Adventure Comedy Science fantasy,United States Canada,Alison Blank Kristin Laskas Martin Jane Startz
+276,Childrens Hospital,,86.0,7.0,11.0,short,12.3,Traditional,Sitcom Parody Satire Black comedy,United States,Rob Corddry
+277,Amazing Animals,,52.0,4.0,30.0,half-hour,13.0,Traditional,,United Kingdom United States,
+278,The New Scooby-Doo Movies,,24.0,2.0,42.0,hour,12.0,Traditional,Comedy Mystery Adventure,United States,Joe Ruby Ken Spears
+279,My Gym Partner's a Monkey,,56.0,4.0,22.0,half-hour,14.0,Traditional,Slice of life Slapstick Adventure Animated sitcom,United States,Julie McNally Cahill Timothy Cahill
+280,Generator Rex,,60.0,3.0,22.0,half-hour,20.0,Traditional,Action Adventure Science fiction Comedy drama Superhero,United States,Man of Action
+281,Tenchi Universe,1995.0,26.0,,,,,anime,"Adventure , Fantasy , Harem",,
+282,The Jetsons,,75.0,3.0,22.0,half-hour,25.0,Traditional,Animated sitcom Comic science fiction,United States,William Hanna Joseph Barbera
+283,"True Jackson, VP",,56.0,3.0,23.0,half-hour,18.7,Traditional,Teen sitcom,United States,Andy Gordon
+284,The Nick Cannon Show,,27.0,2.0,22.0,half-hour,13.5,Traditional,Comedy,United States,Nick Cannon
+285,Alice's Wonderland Bakery,,50.0,2.0,22.0,half-hour,25.0,Traditional,Fantasy [ 1 ] Comedy [ 1 ] Action [ 1 ] Adventure [ 1 ] Musical,United States,Chelsea Beyl
+286,Winx Club,,208.0,8.0,24.0,half-hour,26.0,Traditional,Action [ 1 ] Adventure Comedy Fantasy [ 1 ] Magical girl,Italy United States  [ 2 ] [ 3 ],Iginio Straffi
+287,The Pirates of Dark Water,,21.0,2.0,,,10.5,Traditional,Action-adventure Fantasy,United States,David Kirschner
+288,You're On!,,26.0,1.0,30.0,half-hour,26.0,Traditional,Game show Comedy,United States,Michael Binkow Joe Revello
+289,Star Wars Rebels,,75.0,4.0,22.0,half-hour,18.8,Traditional,Action-adventure Science fiction Comedy-drama Tragedy Dystopia,United States,Simon Kinberg Dave Filoni Carrie Beck
+290,What a Cartoon!,,16.0,,22.0,half-hour,,Traditional,Comedy Variety,United States,Fred Seibert
+291,Mr. Young,,80.0,3.0,22.0,half-hour,26.7,Traditional,,Canada,Dan Signer
+292,Yakky Doodle,,,,,,,Traditional,,,William Hanna Joseph Barbera
+293,Adventures in Wonderland,,100.0,3.0,,,33.3,Traditional,Children's television series Fantasy,United States,The Walt Disney Company
+294,Tokyo Ghoul,2015.0,12.0,,30.0,half-hour,,anime,Dark fantasy [ 1 ] Supernatural thriller [ 2 ],,
+295,Samurai Jack,,62.0,5.0,22.0,half-hour,12.4,Traditional,Action-adventure [ 1 ] [ 2 ] Comedy drama [ 3 ] [ 4 ] Dystopian science fantasy [ 5 ] [ 6 ],United States,Genndy Tartakovsky
+296,Weird but True!,,43.0,3.0,23.0,half-hour,14.3,Traditional,Educational,United States,Charlie Engelman
+297,Design Squad,,36.0,3.0,30.0,half-hour,12.0,Traditional,Reality television,United States,
+298,The Smurfs,,256.0,9.0,22.0,half-hour,28.4,Traditional,Animated sitcom Adventure Fantasy Comedy Slapstick,United States Belgium,"Pierre ""Peyo"" Culliford"
+299,BrainSurge,,120.0,3.0,22.0,half-hour,40.0,Traditional,Children's game show,United States,Scott A. Stone Clay Newbill
+300,Sym-Bionic Titan,,20.0,1.0,22.0,half-hour,20.0,Traditional,Action - adventure Science fiction Mecha,United States,Genndy Tartakovsky Bryan Andrews Paul Rudish
+301,The Tom and Jerry Comedy Show,,15.0,1.0,21.0,half-hour,15.0,Traditional,Variety Comedy,United States,
+302,Bob's Burgers,,307.0,16.0,20.0,half-hour,19.2,Traditional,Animated sitcom [ 1 ] [ 2 ],United States,Loren Bouchard
+303,The Cookie Thief,,,,,,,Traditional,,,
+304,Loopy De Loop,,,,7.0,short,,Traditional,,United States,
+305,Group Chat,,15.0,2.0,23.0,half-hour,7.5,Traditional,Reality,United States,
+306,Moon Girl and Devil Dinosaur,,41.0,2.0,22.0,half-hour,20.5,Traditional,Superhero Comedy-drama Musical,United States,Steve Loter Jeffrey M. Howard Kate Kondell
+307,Wheelie and the Chopper Bunch,,13.0,1.0,30.0,half-hour,13.0,Traditional,Comedy,United States,
+308,Hamster & Gretel,,50.0,2.0,22.0,half-hour,25.0,Traditional,Action Adventure Comedy Musical Superhero,United States,Dan Povenmire
+309,Voltron,,124.0,3.0,25.0,half-hour,41.3,Traditional,"Sci-fi , action / adventure , mecha",United States Japan,Ted Koplar Peter Keefe Saburō Yatsude
+310,The New Leave It to Beaver,,101.0,4.0,22.0,half-hour,25.2,Traditional,Sitcom,United States,Brian Levant
+311,We Baby Bears,,80.0,2.0,11.0,short,40.0,Traditional,Adventure Comedy,United States,Manny Hernandez
+312,Hole in the Wall,,18.0,1.0,22.0,half-hour,18.0,Traditional,Game show,United States,
+313,Gigantor,1963.0,97.0,,,,,anime,"Action , Adventure , Dieselpunk , Mecha , Crime Fiction , Children's anime , Sci-Fi",,
+314,Max Steel,,52.0,2.0,22.0,half-hour,26.0,Traditional,Superhero Action-adventure Science fiction,Canada United Kingdom United States,Lloyd Goldfine Gabriel De La Torre
+315,Waynehead,,13.0,1.0,22.0,half-hour,13.0,Traditional,Adventure Comedy,United States Canada,Damon Wayans
+316,Godzilla,,26.0,2.0,30.0,half-hour,13.0,Traditional,Kaiju,United States,Dick Robbins Duane Poole
+317,Uzumaki,1998.0,4.0,,,,,anime,Dark fantasy [ 1 ] Psychological horror [ 2 ] Supernatural [ 3 ],,
+318,Beyblade Burst season 1,2016.0,51.0,,,,,anime,,,
+319,My Adventures with Superman,,20.0,2.0,22.0,half-hour,10.0,Traditional,Action-adventure Romantic comedy Science fiction Superhero,United States,Jake Wyatt Brendan Clougher Josie Campbell
+320,Lu & the Bally Bunch,,76.0,1.0,7.0,short,76.0,Traditional,Children's television series Comedy Preschool Musical,Canada United States Ireland,Nicky Phelan
+321,Phineas and Ferb,,155.0,5.0,22.0,half-hour,31.0,Traditional,Science fiction comedy Surreal comedy [ 1 ] Musical,United States,"Dan Povenmire Jeff ""Swampy"" Marsh"
+322,Oh Yeah! Cartoons,,34.0,3.0,23.0,half-hour,11.3,Traditional,Animation Comedy Variety Cartoon series,United States,Fred Seibert
+323,The Tom and Jerry Show,,118.0,5.0,11.0,short,23.6,Traditional,Adventure Comedy Slapstick,United States,
+324,Caillou,,92.0,5.0,22.0,half-hour,18.4,Traditional,Children's television series,Canada South Africa,Hélène Desputeaux Christine L'Heureux
+325,Sky Commanders,,13.0,,22.0,half-hour,,Traditional,Adventure Action Science fiction Superhero,United States Japan,Jeff Segal
+326,Captain Caveman and the Teen Angels,,20.0,3.0,22.0,half-hour,6.7,Traditional,Mystery Superhero fiction Comedy,United States,Joe Ruby Ken Spears
+327,The Adventures of Rocky and Bullwinkle and Friends,,163.0,5.0,23.0,half-hour,32.6,Traditional,Surreal comedy Satire Variety,United States,Jay Ward [ 1 ] [ 2 ] Alex Anderson [ 3 ] [ 4 ] Bill Scott
+328,My Knight and Me,,52.0,1.0,11.0,short,52.0,3D/CGI,CGI animation Fantasy Comedy,France Belgium,Joeri Christiaen
+329,Cattanooga Cats,,17.0,2.0,60.0,hour,8.5,Traditional,Comedy,United States,
+330,Xiaolin Showdown,,52.0,3.0,21.0,half-hour,17.3,Traditional,Action Comedy drama Martial arts,United States,Christy Hui
+331,Big City Greens,,110.0,4.0,22.0,half-hour,27.5,Traditional,Animated sitcom [ 1 ] [ 2 ],United States,The Houghton Brothers
+332,Skunk Fu!,,26.0,1.0,24.0,half-hour,26.0,Traditional,Comedy Action Fantasy,Ireland United Kingdom,Aidan Harte
+333,"Inch High, Private Eye",,13.0,1.0,30.0,half-hour,13.0,Traditional,Comedy,United States,
+334,Mech-X4,,35.0,2.0,21.0,half-hour,17.5,Traditional,Sci-fi Adventure Comedy,United States,Steve Marmel
+335,Silver Surfer,,13.0,,20.0,half-hour,,Traditional,Superhero [ 1 ],United States Canada,Larry Brody
+336,The Quick Draw McGraw Show,,45.0,3.0,22.0,half-hour,15.0,Traditional,Western,United States,William Hanna Joseph Barbera
+337,Mega Man Star Force,2006.0,55.0,,,,,Traditional,"Action adventure , superhero , magical boy , tech noir",,
+338,Shorty McShorts' Shorts,,13.0,2.0,4.0,short,6.5,Traditional,Animation Anthology Comedy Cartoon series,United States,Barry Blumberg John Solomon
+339,Peppa Pig,,404.0,9.0,5.0,short,44.9,Traditional,Children's television series Animated series,United Kingdom,Neville Astley Mark Baker
+340,Ultra Violet & Black Scorpion,,16.0,1.0,22.0,half-hour,16.0,Traditional,Superhero Coming-of-age Action-comedy,United States,Dan Hernandez & Benji Samit
+341,Winx Club,,208.0,8.0,24.0,half-hour,26.0,Traditional,Action [ 1 ] Adventure Comedy Fantasy [ 1 ] Magical girl,Italy United States  [ 2 ] [ 3 ],Iginio Straffi
+342,Guardians of the Galaxy,,79.0,3.0,22.0,half-hour,26.3,Traditional,Science fiction comedy Space western Superhero,United States,Marty Isenberg
+343,Care Bears,,11.0,1.0,30.0,half-hour,11.0,Traditional,,United States,Linda Denham Elena Kucharik
+344,Erin & Aaron,,12.0,1.0,22.0,half-hour,12.0,Traditional,Comedy,United States,Dicky Murphy
+345,The Pink Panther Show,,,10.0,6.0,short,,Traditional,Comedy Slapstick Anthology,United States,David H. DePatie Friz Freleng
+346,The Grim Adventures of Billy & Mandy,,84.0,6.0,6.0,short,14.0,Traditional,Supernatural Comedy horror Black comedy Slapstick Surreal humor,United States,Maxwell Atoms
+347,Cardcaptor Sakura,1996.0,70.0,,,,,anime,Magical girl [ 1 ] Romance [ 2 ],,
+348,Lycoris Recoil,2025.0,13.0,,,,,anime,Action  Slice of life [ 1 ] [ 2 ],,
+349,Yoko! Jakamoko! Toto!,,52.0,2.0,5.0,short,26.0,Traditional,Children's TV series,United Kingdom,Tony Collingwood
+350,Game Shakers,,61.0,3.0,22.0,half-hour,20.3,Traditional,Comedy,United States,Dan Schneider
+351,Chaotic,,79.0,3.0,20.0,half-hour,26.3,Traditional,Adventure Science fantasy Action,United States,Merlin P. Mann Martin Rauff
+352,Futurama,,170.0,10.0,22.0,half-hour,17.0,Traditional,Animated sitcom Science fiction comedy Satire Black comedy,United States,Matt Groening
+353,Mutt & Stuff,,74.0,2.0,21.0,half-hour,37.0,Traditional,Educational,United States,Sid and Marty Krofft Bradley Zweig
+354,Lip Sync Battle Shorties,,20.0,2.0,,,10.0,Traditional,Reality,United States,
+355,Bonkers,,61.0,2.0,22.0,half-hour,30.5,Traditional,Crime-comedy Mystery Slapstick comedy,United States,Greg Weisman Duane Capizzi Robert Hathcock Richard Trueblood Len Smith Larry Latham [ a ]
+356,Brain Games,,,,25.0,half-hour,,Traditional,,United States,
+357,What Would You Do?,,90.0,2.0,30.0,half-hour,45.0,Traditional,,United States,
+358,One-Punch Man,2015.0,35.0,,24.0,half-hour,,anime,Action [ 1 ] Comedy [ 2 ] Superhero [ 3 ],,
+359,CatDog,,68.0,4.0,23.0,half-hour,17.0,Traditional,Comedy Slapstick Surreal humour,United States,Peter Hannan
+360,The Perils of Penelope Pitstop,,17.0,1.0,21.0,half-hour,17.0,Traditional,Comedy,United States,William Hanna Joseph Barbera
+361,Power Players,,78.0,1.0,11.0,short,78.0,3D/CGI,Action Adventure Science fiction Superhero Comedy,United States France,Jeremy Zag
+362,The Bob Clampett Show,,26.0,,30.0,half-hour,,Traditional,,United States,
+363,Buford and the Galloping Ghost,,13.0,,30.0,half-hour,,Traditional,Mystery Comedy,United States,
+364,SlamBall,,,,,,,Traditional,,,
+365,Teacher's Pet,,39.0,2.0,22.0,half-hour,19.5,Traditional,Sitcom,United States,Gary Baseman Bill Steinkellner Cheri Steinkellner
+366,Ellen's Acres,,52.0,2.0,12.0,short,26.0,Traditional,,United States,Larry Schwarz
+367,Dastardly and Muttley in Their Flying Machines,,17.0,,22.0,half-hour,,Traditional,Comedy,United States,William Hanna Joseph Barbera
+368,¡Mucha Lucha!,,52.0,3.0,22.0,half-hour,17.3,Traditional,Comedy Slapstick Sports,United States,Eddie Mort Lili Chin
